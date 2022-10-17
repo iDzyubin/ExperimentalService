@@ -1,0 +1,4 @@
+.idea
+src/ExperimentalService.Api/bin
+src/ExperimentalService.Api/obj
+src/ExperimentalService.Api/appsettings.Development.json
